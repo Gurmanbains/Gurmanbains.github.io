@@ -1,2 +1,4 @@
 # Gurmanbains.github.io
-This is my first GitHub site.
+##My Skills
+**Video Editing**
+**Full Stack Developer**
